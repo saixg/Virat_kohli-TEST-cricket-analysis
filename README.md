@@ -77,7 +77,7 @@ This mirrors how insights are communicated in professional sports analytics envi
  🚀 Live Application
 
 👉 **Streamlit App:**
-*(Link will appear here after deployment)*
+      https://viratkohli-test-cricket-analysis-lvmsejemysyde4unrl48fb.streamlit.app/
 
 The app presents:
 
@@ -124,4 +124,5 @@ This project was built to reflect **real-world analytics standards**, not notebo
 
 Built by ME - Saigireesh 
 Passionate in sports analytics, applied machine learning, and interpretable data storytelling.
+
 
